@@ -9,8 +9,8 @@ Donate
 
 Tools
 ---
-  * online : http://sleepydesign.com/services/typetool/
-  * offline : wait for donation.
+  * online [Sleepy Type Tool v1.3.3](http://sleepydesign.com/services/typetool/)
+  * offline [Sleepy Type Tool v1.3.3.zip] (https://github.com/katopz/sleepytypetool/blob/master/bin/SleepyTypeTool_v1.3.3.zip?raw=true)
 
 Feature
 ---
